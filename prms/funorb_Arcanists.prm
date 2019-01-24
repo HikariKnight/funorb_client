@@ -1,0 +1,6 @@
+-Djava.class.path=jagexappletviewer.jar
+-Dcom.jagex.config=http://arcanists14.funorb.com/g=arcanistsmulti/jav_config.ws
+-Xmx512m
+-Xss2m
+-Dsun.java2d.noddraw=true
+jagexappletviewer
